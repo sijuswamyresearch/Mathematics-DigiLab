@@ -21,4 +21,4 @@ Write and execute foundational Python programs demonstrating: (1) Hello World, (
 ![](/script/Lab1_code1.png)
 ![](/script/Lab1_code2.png)
 
-Link to Lab file (https://colab.research.google.com/drive/1oDXBgewkOymNUxh7G4vCHbOLuR_R-zG7?usp=sharing)
+Link to Lab file [Lab1 script:](https://colab.research.google.com/drive/1oDXBgewkOymNUxh7G4vCHbOLuR_R-zG7?usp=sharing)
